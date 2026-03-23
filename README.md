@@ -1,6 +1,6 @@
 # HeCoNER
 
-This repository is for the paper **Heterogeneous Collaboration and Instance-Adaptive Constraints for Few-Shot Nested NER**.
+This repository is for the paper **Heterogeneous Collaboration and Instance-Adaptive Constraints for Few-Shot Nested NER**, accepted at **IJCNN 2026**.
 
 ## Overview
 
@@ -8,11 +8,4 @@ HeCoNER is a method designed for **few-shot nested named entity recognition**, a
 
 ## Status
 
-We are currently organizing and cleaning the codebase, including:
-
-- model implementation
-- data processing pipeline
-- training and evaluation scripts
-- experiment configurations
-
-The full code and usage instructions will be released in the near future.
+The code is currently being organized and will be released in the near future.
